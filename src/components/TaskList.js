@@ -55,7 +55,7 @@ export default function TaskList() {
       <div className="list-items" key={"empty"} data-testid="empty">
         <div className="wrapper-message">
           <span className="icon-check" />
-          <p className="title-message">You have no tasks</p>
+          <p className="title-message">You have no tasks yet.</p>
           <p className="subtitle-message">Sit back and relax</p>
         </div>
       </div>
